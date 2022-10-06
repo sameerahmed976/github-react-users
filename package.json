@@ -9,10 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "fusioncharts": "^3.19.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-fusioncharts": "^4.0.0",
+=======
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+>>>>>>> 71408666a25dbda3eec368b4c7c4c97cf918ec6c
     "react-icons": "^4.4.0",
     "react-router-dom": "^6.2.2"
   },
