@@ -28,7 +28,6 @@
 body {
   font-family: var(--regular-font);
   font-size: 16px;
-  background-color: #eefdff;
   animation: rotate 1s ease-in-out 1 both;
 }
 

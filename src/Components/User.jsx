@@ -1,7 +1,16 @@
 import React from "react";
+import Card from "./Card";
+import Followers from "./Followers";
 
 const User = () => {
-  return <div>User</div>;
+  return (
+    <>
+      <section>
+        <Card />
+        <Followers />
+      </section>
+    </>
+  );
 };
 
 export default User;
